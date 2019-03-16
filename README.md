@@ -1,6 +1,6 @@
 # SAVANI
 
-![Scheme](paraview_scene.png =250x)
+![3D visualization](/paraview_scene.png)
 
 ## Model Description
 
