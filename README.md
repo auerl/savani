@@ -1,6 +1,6 @@
 # SAVANI
 
-![3D visualization](/paraview_scene.png | width=250)
+![3D visualization](/paraview_scene.png)
 
 ## Model Description
 
