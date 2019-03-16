@@ -1,6 +1,9 @@
 # SAVANI
 
-![3D visualization](/paraview_scene.png){width="250px"}.
+
+<p align="center">
+  <img src="paraview_scene.png" width="250" title="3D visualization of SAVANI created with Paraview">
+</p>
 
 ## Model Description
 
